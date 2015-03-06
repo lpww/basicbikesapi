@@ -1,0 +1,14 @@
+{
+  "name": "basic-bike-api",
+  "version": "0.0.1",
+  "description": "restful bike api",
+  "main": "server.js",
+  "repository": "",
+  "license": "Proprietary",
+  "private": false,
+  "dependencies": {
+    "express": "~3.4.8",
+    "mongoose": "~3.8.8",
+    "node": "0.0.0"
+  }
+}
